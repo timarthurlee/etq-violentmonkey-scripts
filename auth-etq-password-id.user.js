@@ -4,7 +4,7 @@
 // @match       https://*.etq.com/*
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      Tim Lee
 // @description Adds an ID to the password input field that lacks one
 // ==/UserScript==
 
